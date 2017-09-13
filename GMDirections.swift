@@ -1,5 +1,5 @@
 //
-//  GMDirection.swift
+//  GMDirections.swift
 //  TrackRT
 //
 //  Created by Vishal Dubey on 11/07/17.
@@ -11,7 +11,7 @@ import GoogleMaps
 import Alamofire
 import JASON
 
-class GMDirection {
+class GMDirections {
     
     var apiKey: String!
     var origin: CLLocationCoordinate2D!
